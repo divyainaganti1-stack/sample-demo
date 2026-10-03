@@ -1,2 +1,3 @@
 Demo for understanding how Git works.
 Trying to understand 
+Created feature branch with first user story
