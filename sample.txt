@@ -1,1 +1,2 @@
 Demo for understanding how Git works.
+Trying to understand 
